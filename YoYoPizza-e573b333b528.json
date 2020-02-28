@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yoyopizza-evvhso",
+  "private_key_id": "e573b333b52863fd6cbd2945433efadaa1c18422",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCObnyS8TvkW0XX\ndBBzv4ii+Vk/wOj/o5/WDJ1L/jqFtYQA+UShBMPbi3z3Vc36xbvJAAuRy7wZ6NsL\nMuiPVzkUP1sXKiNmQZSlKuyh2OEsfnxKn4CJZNgUgPH+f5HVL7Mymp/FNRaRV21P\nY4+fjFBeJlasnj7MVN6aBLdnQFmu9mRDn16a2w4K1otWilxET4mFM5BCMcC3Qflz\nwUY40qj96QYg+rBGXj93o665YCwitKumPa0qBGY8Z3XKZX76CYGOgNq0uvAKsXoH\niZLjPzugLW9vyA2M3Pkyykjtgx9dEkqFhll78zu/2Pklk2i4d/EnxH2UGH06rOEB\ns88XV6TjAgMBAAECggEAC72TcDYJW/v4EwKis9/XE/6zetFcg2y0lAYrKySez1Rp\n4qipcw+7qKEOtoFF/toGGNNI9jDR5bLaPMnqqJzQfC5IGcM5SB23coafcIHk9xrK\nr7Nb0DeApkQGGUE2agPKD4L2ZjZHkMh2SWPUEXCVVAVwrJRIvzrEX0lsksrCTxfU\neKDNgeYwAfmOir0fv0rxo+WsADq/7HdlnnVt6hfAXVCiy21Z46e6VmX1gMhsapQe\nbN4DH5FcL/94Z1StUJHJ9TyPaOpl514ZNPXQbFGVBEpSyavsWNDvU6tAQgcq4e7U\nKUYyJd/B7o4dCL/Fb+DijNPPp2+hEVA5GAfULTTPGQKBgQDHp2AusiIe7TntITyQ\nMf38lhHJUzyjyLGpQaCPv7qgrNyWRJKtEVxHR7dDIDb3h5/+c+ifpvtIDEuenv6U\nrvYqxmV/I9Sbdh74bNPhxjcN3EaGJMdgQiSulNRkhEzQN42ENWhYBDP5F7eP3cux\nRN8cjH57j/7i4IjHigkC+HZ9SwKBgQC2oOjUx46c24aO0xdrbUeH8zdcA5tgNpIs\nVGMmQNgJVxcwXYxuakRGKq5Sjs9hFmxWRWq7wVQVCGvgUy5Fcu6iqDzAbOrXQc7w\nUQ8ssCouCjHIALwrEKvqlFxVZz280n34T4wj2kWlsxEzP5NL1VQEneDl0OxEku4c\n2gJ4y1uvyQKBgHee/u+7ZtokxEohWcoDSevmdi2ro292NYv1eB/ofgb6ywd1enQb\nLLDAdTrQuF5CckfgZoYRZAjc5QnatSmcUn16dSFh9GZYtWGewqxJOH8jdVW1/4ba\n2mOHZGH9KpCuWCnYXfYuPn2GCkM2Xm6NlyfhvX6G3e5NHWaAe7m96DBVAoGAV+Y0\nig0OV/LU3bM952eucQGf2Hqn8vPxAMMRAZ1eHYi8UXwFFjOxbrAmPPgdWhZHyHIa\nwAl55bGq8ko20BhUQReGPftuQHKdHk91ZUXY11XyxdeMuZGJnRsRIc3SCiqplLT8\nt1jcAregBLGJvIsNqDcwwov+27Z4QoyveeIu2/kCgYEAvHttaSrqgfsFo8T9ufrj\n/fyJmUNioZ7z92hgYdwkcNDP0dSV3SRHHtfpIdpfUe9g/oYIHDJhOlsJaoSv7XI7\n/7bxzK+9SfIc3zZ+Bjl2tzPzIRk7jgiLK1cfI3kJMMlY1z8KR67jpfPOhBzdPXB7\nnzrMeQb6LHTxe43vve7IYQQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-xmtcfp@yoyopizza-evvhso.iam.gserviceaccount.com",
+  "client_id": "115533781558040940425",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-xmtcfp%40yoyopizza-evvhso.iam.gserviceaccount.com"
+}
