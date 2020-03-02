@@ -89,7 +89,7 @@ function serverMessage(response2) {
 
 function fetchmsg(){
 
-     var url = 'https://gentle-gorge-79305.herokuapp.com//send-msg';
+     var url = 'https://yoyo-pizza.herokuapp.com/sendmsg';
       
       const data = new URLSearchParams();
       for (const pair of new FormData(document.getElementById("mymsg"))) {
