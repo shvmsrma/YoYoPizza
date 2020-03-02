@@ -32,13 +32,13 @@ document.getElementById("MSG").value= no.innerHTML;
   insertMessage();
 }
 
-$(window).load(function() {
+$(window).on('load',(function() {
   $messages.mCustomScrollbar();
   setTimeout(function() {
     serverMessage("Type Hi to start ordering pizza");
   }, 100);
 
-});
+}));
 
 function updateScrollbar() {
   $messages.mCustomScrollbar("update").mCustomScrollbar('scrollTo', 'bottom', {
