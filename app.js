@@ -28,7 +28,7 @@ app.use(function (req, res, next) {
 
 
 
-app.post('/send-msg',(req,res)=> {
+app.post('/sendmsg',(req,res)=> {
 
     runSample(req.body.MSG).then(data =>{
         res.send({Reply:data})
@@ -36,7 +36,7 @@ app.post('/send-msg',(req,res)=> {
 
 
 })
-app.get('/send-msg',(req,res) =>{
+app.get('/sendmsg',(req,res) =>{
 
   console.log("Get method is working");
 
