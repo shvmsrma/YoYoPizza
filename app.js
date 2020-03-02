@@ -49,7 +49,7 @@ async function runSample(msg,projectId = 'yoyopizza-evvhso') {
 
   // Create a new session
   const sessionClient = new dialogflow.SessionsClient({
-      keyFilename:"/home/shivam/Warrio@99/YoYoPizza/YoYoPizza-e573b333b528.json"
+      keyFilename:"YoYoPizza-e573b333b528.json"
   });
   const sessionPath = sessionClient.sessionPath(projectId, sessionId);
 
