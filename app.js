@@ -2,7 +2,7 @@ const dialogflow = require('dialogflow');
 const uuid = require('uuid');
 const express = require('express');
 const bodyParser = require('body-parser');
-const port = 5000;
+const port = process.env.PORT || 5000;
 const app = express();
 const sessionId = uuid.v4();
 
@@ -38,13 +38,13 @@ app.post('/sendmsg',(req,res)=> {
 })
 app.get('/sendmsg',(req,res) =>{
 
-  console.log("Get method is working");
+  res.send("Get method is working");
 
 })
 
 app.get('',(req,res) =>{
 
-  console.log("Get method is working");
+  res.send("Get method is working");
 
 })
 
