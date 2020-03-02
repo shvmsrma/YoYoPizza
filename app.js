@@ -36,7 +36,17 @@ app.post('/send-msg',(req,res)=> {
 
 
 })
+app.get('/send-msg',(req,res) =>{
 
+  console.log("Get method is working");
+
+})
+
+app.get('',(req,res) =>{
+
+  console.log("Get method is working");
+
+})
 
 
 
